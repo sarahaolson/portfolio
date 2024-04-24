@@ -1,11 +1,3 @@
-/**
-* Template Name: Laura
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -647,7 +639,7 @@ section {
 # My Resume
 --------------------------------------------------------------*/
 .resume .resume-title {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -1062,6 +1054,7 @@ section {
 
 .education .education-item ul li {
   padding-bottom: 10px;
+  padding-right: 50px;
 }
 
 .education .education-item:last-child {
