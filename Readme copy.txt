@@ -1,0 +1,1 @@
+A portfolio website for my projects! This also doubles as a way to familiarize myself with Bootstrap and GitHub Pages.
